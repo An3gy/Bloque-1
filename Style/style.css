@@ -1,0 +1,47 @@
+body {
+    font-family: monospace;
+    font-size: 16px;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+
+
+h2 {
+    color:  #4800c3;
+}
+
+#header {
+    color: white;
+    text-align: center;
+    font-size: 1.3rem;
+    padding: 15px;
+}
+
+.title {
+    font-size: 5rem;
+    color: aliceblue;
+    padding: 3px;
+    margin: 0;
+}
+
+#colorarticulo {
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+    background: white;
+    border-radius: 5px;
+}
+
+.info {
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #4800c3;
+    color: white;
+    padding: 1px;
+    margin-top: 10px;
+}
